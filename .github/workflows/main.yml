@@ -20,6 +20,6 @@ jobs:
       - uses: DoozyX/clang-format-lint-action@v0.12
         with:
           source: '.'
-          expensions: 'h,c,i,hpp,cpp,ipp'
+          extensions: 'h,c,i,hpp,cpp,ipp'
           clangFormatVersion: 12
   
