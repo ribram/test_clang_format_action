@@ -7,5 +7,5 @@ main ()
     printf (
         "Badly formatted line
       ");
-      // make one more change
+    // make one more change
 }
